@@ -1,10 +1,9 @@
         
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/0r3XcyvGwNtoOVAQA2/giphy.gif" width="1500" height="500" />
+  <img src="https://media.giphy.com/media/RJVw6tIfb2dIwTHFb0/giphy.gif" width="1500" height="500" />
 </div>
 
 <!--
-**FedorSannikov1988/FedorSannikov1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
