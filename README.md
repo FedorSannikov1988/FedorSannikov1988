@@ -1,9 +1,7 @@
         
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/34Dzyxg3H10vCDlweY/giphy.gif" width="1000" height="500" />
+  <img src="https://media.giphy.com/media/0r3XcyvGwNtoOVAQA2/giphy.gif" width="1000" height="500" />
 </div>
-
-### Hi there 👋
 
 <!--
 **FedorSannikov1988/FedorSannikov1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
