@@ -7,6 +7,6 @@
     <h1>Привет, меня зовут Федор! 👋</h1>
 </div>
 
-<div style="text-align: right">
-    <h1>Languages and Tools :</h1>
+<div style="text-align: left">
+    <h3>Languages and Tools :</h3>
 </div>
