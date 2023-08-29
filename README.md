@@ -3,6 +3,8 @@
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="1500" height="400" />
 </div>
 
+Привет, меня зовут Федор! 👋
+
 <!--
 
 Here are some ideas to get you started:
