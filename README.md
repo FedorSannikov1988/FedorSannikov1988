@@ -12,7 +12,7 @@
     </a>
 </div>
 
-<hr>
+***
 
 <div style="text-align: left">
     <h3> 🛠️ Languages and Tools: </h3>
