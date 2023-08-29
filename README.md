@@ -10,31 +10,9 @@
 <div align="center">
     <a href="https://t.me/Fedor_Sannikov"><img src="https://camo.githubusercontent.com/76681dff3156833c2dcebd962f9879b9f4bd68b2394f2754d08526321c9ab3f6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d54656c656772616d2d3237413745373f7374796c653d666f722d7468652d6261646765266c6f676f3d74656c656772616d" alt="Telegram">
     </a>
-    <a href="https://vk.com/"><img src="https://img.shields.io/badge/VKontakte-2787F5?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
+    <a href="https://vk.com/id816035028"><img src="https://img.shields.io/badge/VKontakte-2787F5?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
     </a>
 </div>
-
-
-
-
-
-
-
-        
-<div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
-
-    
-
 
 ***
 
