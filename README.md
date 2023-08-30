@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-    <h1>Привет, меня зовут Федор! 👋</h1>
+    <h1>Hi, my name is Fedor ! 👋</h1>
 </div>
 
 <div align="center">
