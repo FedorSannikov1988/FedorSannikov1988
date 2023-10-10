@@ -23,4 +23,4 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
-### Мои пед проекты:
+## Мои пед проекты (прикреплены ниже к репозиторию):
