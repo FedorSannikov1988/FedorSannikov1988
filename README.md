@@ -16,11 +16,5 @@
 
 ***
 
-<div style="text-align: left">
-    <h3> 🛠️ Languages and Tools: </h3>
-</div>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.python.org/"><img src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" alt="Python" width="8.8%"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://www.djangoproject.com/"><img src="https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"></a>
-<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
