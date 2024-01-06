@@ -21,6 +21,9 @@
 ***
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
+
+<br><br>
+
 <h3>
   <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
     Pet-проект на Flask.
@@ -71,12 +74,47 @@
 
 <br><br>
 
+<h3>
+  Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp.
+</h3>
 
-Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp:
-1-ая часть (телеграмм бот)) https://github.com/FedorSannikov1988/delivery_service
-Стек: Python, PostgreSQL, SQLAlchemy, aiogram 3.0.0, Loguru.
-2-ая часть (2-e html странички написанные на JavaScript))
-Размещены на:
+<p>
+  <a href="https://github.com/FedorSannikov1988/delivery_service">
+    1-ая часть (телеграмм бот))
+  </a>
+</p>
+
+<p>
+  Стек: Python, PostgreSQL, SQLAlchemy, aiogram 3.0.0, Loguru.
+</p>
+
+<p>
+  <a href="https://github.com/FedorSannikov1988/delivery_service">
+    2-ая часть (2-e html странички написанные на JavaScript))
+  </a>
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Размещены сдесь и сдесь:
 https://fedorsannikov1988.github.io/index.html
 https://fedorsannikov1988.github.io/delivery.html
 Репозиторий:
