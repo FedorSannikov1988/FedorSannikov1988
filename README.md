@@ -10,11 +10,11 @@
 <div align="center">
   
   <a href="https://t.me/Fedor_Sannikov">
-    <img src="https://toplogos.ru/images/thumbs/preview-logo-telegram.png"  alt="Логотип Telegram" />
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
     
   <a href="https://vk.com/id816035028">
-    <img src="https://img.shields.io/badge/VKontakte-2787F5?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte">
+    <img src="https://img.shields.io/badge/VKontakte-2787F5?style=for-the-badge&logo=vk&logoColor=white" alt="VKontakte"/>
   </a>
   
 </div>
