@@ -114,12 +114,9 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/product_catalog">
-    Pet-проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API).
+    Pet-проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API):
   </a>
 </h3>
-
-<br>
-
 <p>
   Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
 </p>
@@ -128,27 +125,20 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/telegram_bot">
-    Pet-проект по созданию интернет магазина овощей (овощебазы) на базе телеграмм бота (Telegram API).
+    Pet-проект по созданию интернет магазина овощей (онлайн овощной киоск) на базе телеграмм бота (Telegram API):
   </a>
 </h3>
-
-<br>
-
 <p>
   Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
 </p>
 
 <br><br>
 
-
 <h3>
   <a href="https://github.com/FedorSannikov1988/django_group_petproject">
-    Pet-проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде.
+    Pet-проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде:
   </a>
 </h3>
-
-
-
 <p>
   Стек: Python, Django, PostgreSQL, HTML, CSS;
 </p>
