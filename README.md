@@ -26,7 +26,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
-    Pet-проект на Flask.
+    Pet-проект на Flask:
   </a>
 </h3>
 <p>
@@ -40,7 +40,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/html_css_main_page_clothing-store">
-    Pet-проект по HTML.
+    Pet-проект по HTML:
   </a>
 </h3>
 
