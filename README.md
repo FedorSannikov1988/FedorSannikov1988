@@ -147,7 +147,7 @@
   </a>
 </h3>
 
-<br>
+
 
 <p>
   Стек: Python, Django, PostgreSQL, HTML, CSS;
