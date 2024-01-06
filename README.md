@@ -98,8 +98,6 @@
   </a>
 </p>
 
-<br>
-
 <p>
   index.html pазмещена
   <a href="https://fedorsannikov1988.github.io/index.html">
