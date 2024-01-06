@@ -23,12 +23,18 @@
 ## Мои пед проекты (прикреплены ниже к репозиторию):
 
 <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
-  Pet-проект на Flask.
+  <h3>
+    Pet-проект на Flask.
+  </h3>
 </a>
+
+<br>
 
 <p>
   Pet-проект по созданию службы доставки готовой еды на базе фрэймворка Flask.
 </p>
+
+<br>
 
 <p>
   Стек: Python, Flask (приложения Flask-Login, Flask-Mail, Flask-Migrate, Flask-SQLAlchemy, Flask-WTF.), Jinga2, alembic, SQLite, Loguru.
