@@ -22,12 +22,11 @@
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
 <h3>
-<a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
-  
+  <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
     Pet-проект на Flask.
-  
-</a>
+  </a>
 </h3>
+
 <br>
 
 <p>
@@ -42,12 +41,36 @@
 
 <br><br>
 
-Pet-проект по HTML: <br>
-Размещен на: <br>
-https://fedorsannikov1988.github.io/clothing-store.html <br>
-Репозиторий: <br>
-https://github.com/FedorSannikov1988/html_css_main_page_clothing-store <br>
-Главная страничка интернет магазина, адаптивна для размеров экрана: от 1600 px до 768 px и от 768 px до 375 px.
+<h3>
+  <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
+    Pet-проект по HTML.
+  </a>
+</h3>
+
+<br>
+
+<p>
+  Размещен
+  <a href="https://fedorsannikov1988.github.io/clothing-store.html">
+    сдесь
+  </a>
+</p>
+
+<br>
+
+<p>
+  <a href="https://github.com/FedorSannikov1988/html_css_main_page_clothing-store">
+    Репозиторий
+  </a>
+</p>
+
+<br>
+<p>
+  Главная страничка интернет магазина, адаптивна для размеров экрана: от 1600 px до 768 px и от 768 px до 375 px.
+</p>
+
+<br><br>
+
 
 Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp:
 1-ая часть (телеграмм бот)) https://github.com/FedorSannikov1988/delivery_service
