@@ -1,4 +1,3 @@
-
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/1GEATImIxEXVR79Dhk/giphy.gif" width="1500" height="400" />
 </div>
@@ -21,20 +20,27 @@
 
 ***
 
-
 ## Мои пед проекты (прикреплены ниже к репозиторию):
 
-Pet-проект на Flask:
-<br>
-https://github.com/FedorSannikov1988/food_delivery_service_Flask
-Pet-проект по созданию службы доставки готовой еды на базе фрэймворка Flask.
-Стек: Python, Flask (приложения Flask-Login, Flask-Mail, Flask-Migrate, Flask-SQLAlchemy, Flask-WTF.), Jinga2, alembic, SQLite, Loguru.
+<a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
+  Pet-проект на Flask.
+</a>
 
-Pet-проект по HTML:
-Размещен на:
-https://fedorsannikov1988.github.io/clothing-store.html
-Репозиторий:
-https://github.com/FedorSannikov1988/html_css_main_page_clothing-store
+<p>
+  Pet-проект по созданию службы доставки готовой еды на базе фрэймворка Flask.
+</p>
+
+<p>
+  Стек: Python, Flask (приложения Flask-Login, Flask-Mail, Flask-Migrate, Flask-SQLAlchemy, Flask-WTF.), Jinga2, alembic, SQLite, Loguru.
+</p>
+
+<br><br>
+
+Pet-проект по HTML: <br>
+Размещен на: <br>
+https://fedorsannikov1988.github.io/clothing-store.html <br>
+Репозиторий: <br>
+https://github.com/FedorSannikov1988/html_css_main_page_clothing-store <br>
 Главная страничка интернет магазина, адаптивна для размеров экрана: от 1600 px до 768 px и от 768 px до 375 px.
 
 Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp:
