@@ -21,13 +21,13 @@
 ***
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
-
+<h3>
 <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
-  <h3>
+  
     Pet-проект на Flask.
-  </h3>
+  
 </a>
-
+</h3>
 <br>
 
 <p>
