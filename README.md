@@ -39,7 +39,7 @@
 <br>
 
 <h3>
-  <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
+  <a href="https://github.com/FedorSannikov1988/html_css_main_page_clothing-store">
     Pet-проект по HTML.
   </a>
 </h3>
@@ -48,12 +48,6 @@
   Размещен
   <a href="https://fedorsannikov1988.github.io/clothing-store.html">
     сдесь
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/FedorSannikov1988/html_css_main_page_clothing-store">
-    Репозиторий
   </a>
 </p>
 
