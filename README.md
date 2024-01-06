@@ -105,12 +105,11 @@
     сдесь
   </a>
 </p>
-
 <p>
   Стек: JavaScript, HTML, CSS;
 </p>
 
-<br><br>
+<br>
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/product_catalog">
@@ -121,7 +120,7 @@
   Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
 </p>
 
-<br><br>
+<br>
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/telegram_bot">
@@ -132,7 +131,7 @@
   Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
 </p>
 
-<br><br>
+<br>
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/django_group_petproject">
