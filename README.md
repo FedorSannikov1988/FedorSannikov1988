@@ -22,7 +22,7 @@
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
 
-<br><br>
+<br>
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
