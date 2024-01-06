@@ -78,15 +78,11 @@
   Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp.
 </h3>
 
-<br>
-
 <p>
   <a href="https://github.com/FedorSannikov1988/delivery_service">
     1-ая часть (телеграмм бот))
   </a>
 </p>
-
-<br>
 
 <p>
   Стек: Python, PostgreSQL, SQLAlchemy, aiogram 3.0.0, Loguru.
