@@ -107,20 +107,48 @@
 </p>
 
 <p>
-  Стек: JavaScript, HTML, CSS.
+  Стек: JavaScript, HTML, CSS;
 </p>
 
+<br><br>
+
+<h3>
+  <a href="https://github.com/FedorSannikov1988/product_catalog">
+    Pet-проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API).
+  </a>
+</h3>
+
+<br>
+
+<p>
+  Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
+</p>
+
+<br><br>
+
+<h3>
+  <a href="https://github.com/FedorSannikov1988/telegram_bot">
+    Pet-проект по созданию интернет магазина овощей (овощебазы) на базе телеграмм бота (Telegram API).
+  </a>
+</h3>
+
+<br>
+
+<p>
+  Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
+</p>
+
+<br><br>
 
 
+<h3>
+  <a href="https://github.com/FedorSannikov1988/django_group_petproject">
+    Pet-проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде.
+  </a>
+</h3>
 
-Pet-проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API):
-https://github.com/FedorSannikov1988/product_catalog
-Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
+<br>
 
-Pet-проект по созданию интернет магазина овощей (овощебазы) на базе телеграмм бота (Telegram API):
-https://github.com/FedorSannikov1988/telegram_bot
-Стек: Python, aiogram, SQLite в асинхронном режиме (библиотека aiosqlite);
-
-Pet-проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде:
-https://github.com/FedorSannikov1988/django_group_petproject;
-Стек: Python, Django, PostgreSQL, HTML, CSS;
+<p>
+  Стек: Python, Django, PostgreSQL, HTML, CSS;
+</p>
