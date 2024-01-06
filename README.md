@@ -112,8 +112,6 @@
   </a>
 </p>
 
-<br>
-
 <p>
   Стек: JavaScript, HTML, CSS.
 </p>
