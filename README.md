@@ -22,6 +22,18 @@
 
 ## Мои пед проекты (прикреплены ниже к репозиторию):
 
+<h3>
+  <a href="https://github.com/FedorSannikov1988/Fedor__recipe__book__Django">
+    Pet-проект на Django:
+  </a>
+</h3>
+<p>
+  Pet-проект по созданию <a href="https://fedorsannikov1988.pythonanywhere.com/">Сайт рецептов</a> на базе фреймворка Django размещенный <a href="https://fedorsannikov1988.pythonanywhere.com/">сдесь</a> .
+</p>
+<p>
+  Стек: Python, Django, SQLite или MySQL, HTML, CSS;
+</p>
+
 <br>
 
 <h3>
