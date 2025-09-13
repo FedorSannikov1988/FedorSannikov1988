@@ -20,7 +20,7 @@
 
 ***
 
-## My study projects:
+## Мои учебные проекты:
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/Fedor__recipe__book__Django">
