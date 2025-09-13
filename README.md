@@ -24,11 +24,11 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/Fedor__recipe__book__Django">
-    Pet-проект на Django:
+    Учебный проект на Django:
   </a>
 </h3>
 <p>
-  Pet-проект по созданию <a href="https://fedorsannikov1988.pythonanywhere.com/">Сайт рецептов</a> на базе фреймворка Django размещенный <a href="https://fedorsannikov1988.pythonanywhere.com/">сдесь</a> .
+  Учебный проект по созданию <a href="https://fedorsannikov1988.pythonanywhere.com/">Сайт рецептов</a> на базе фреймворка Django размещенный <a href="https://fedorsannikov1988.pythonanywhere.com/">сдесь</a> .
 </p>
 <p>
   Стек: Python, Django, SQLite или MySQL, HTML, CSS;
@@ -38,11 +38,11 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/food_delivery_service_Flask">
-    Pet-проект на Flask:
+    Учебный проект на Flask:
   </a>
 </h3>
 <p>
-  Pet-проект по созданию службы доставки готовой еды на базе фрэймворка Flask.
+  Учебный проект по созданию службы доставки готовой еды на базе фрэймворка Flask.
 </p>
 <p>
   Стек: Python, Flask (приложения Flask-Login, Flask-Mail, Flask-Migrate, Flask-SQLAlchemy, Flask-WTF.), Jinga2, alembic, SQLite, Loguru.
@@ -52,7 +52,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/html_css_main_page_clothing-store">
-    Pet-проект по HTML:
+    Учебный проект по HTML:
   </a>
 </h3>
 
@@ -70,7 +70,7 @@
 <br>
 
 <h3>
-  Pet-проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp:
+  Учебный проект по созданию службы доставки готовой еды на базе телеграмм бота (Telegram API) и возможностей предоставляемых Telegram WebApp:
 </h3>
 
 <p>
@@ -108,7 +108,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/product_catalog">
-    Pet-проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API):
+    Учебный проект по созданию копии реального интернет магазина на базе телеграмм бота (Telegram API):
   </a>
 </h3>
 <p>
@@ -119,7 +119,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/telegram_bot">
-    Pet-проект по созданию интернет магазина овощей (онлайн овощной киоск) на базе телеграмм бота (Telegram API):
+    Учебный проект по созданию интернет магазина овощей (онлайн овощной киоск) на базе телеграмм бота (Telegram API):
   </a>
 </h3>
 <p>
@@ -130,7 +130,7 @@
 
 <h3>
   <a href="https://github.com/FedorSannikov1988/django_group_petproject">
-    Pet-проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде:
+    Учебный проект по созданию интернет магазина программного обеспечения используя веб-фреймворк Django в команде:
   </a>
 </h3>
 <p>
